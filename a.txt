@@ -1,3 +1,5 @@
 Alteração do arquivo pelo usuário B.
 criando
 nova funcionalidade - A
+
+enviando a funcionalidade B 
