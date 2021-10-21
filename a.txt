@@ -1,1 +1,3 @@
 Alteração do arquivo pelo usuário B.
+criando
+nova funcionalidade - A
